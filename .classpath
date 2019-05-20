@@ -20,5 +20,6 @@
 	<classpathentry kind="lib" path="/Users/kahnauschina/Desktop/hibernate-search-5.8.0.Final/dist/lib/required/lucene-core-5.5.4.jar"/>
 	<classpathentry kind="lib" path="/Users/kahnauschina/Desktop/hibernate-search-5.8.0.Final/dist/lib/required/jboss-logging-3.3.0.Final.jar"/>
 	<classpathentry kind="lib" path="/Users/kahnauschina/Desktop/hibernate-search-5.8.0.Final/dist/lib/required/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
