@@ -1,3 +1,3 @@
 # hibernate-demo
 
-reviewing hibernate
+reviewing hibernate ORM
