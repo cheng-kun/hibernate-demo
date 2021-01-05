@@ -1,1 +1,35 @@
-/target/
+# Build output directies
+/target
+*/target
+*/**/target
+/build
+*/build
+testdb
+
+# IntelliJ specific files/directories
+out
+.idea
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+bin
+
+
+# Miscellaneous
+*.log
+.clover
+.DS_Store
+
+# JBoss Transactions
+ObjectStore
+
+# Profiler and heap dumps
+*.jps
+*.hprof
