@@ -1,3 +1,1 @@
-# hibernate-demo
-
-reviewing
+#This project covers basic hibernate concepts
